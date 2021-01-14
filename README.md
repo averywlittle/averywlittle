@@ -1,12 +1,10 @@
 ### Hello 👋
 
-I'm a software developer with experience at all levels of the stack. I've spent the last ~year working at Industry Star, where I've been working on software empowering supply chains. My contributions have entailed UI/UX improvements, product design, feature implementation, bug squashing, tooling upgrades, and more, all done with an Angular frontend hooked up to a ASP.NET backend with a MySQL database, CosmosDB data store, and elastic search data store.
+I'm a software developer with experience at all levels of the stack. I've spent the last ~year working at Industry Star, where I've been working on software empowering supply chains. My contributions have entailed UI/UX improvements, product design, feature implementation, bug squashing, tooling upgrades, and more, all done with an Angular frontend hooked up to a ASP.NET backend with a SQL Server database, CosmosDB data store, and elastic search data store.
 
-Recently I've been learning React and MongoDB. NoSQL databases are ideal for learning new technologies since they are simple to set up and easy to change. I built https://www.tweetsort.io/ (code in a repo pinned here) using my new capabilities in React. My next project will use React, Typescript, testing frameworks, another node and express backend, and a postgres database.
+Currently working my way through the full stack open course. React is great. I wish I could use it at work.
 
-Code for my projects can be found here. Contact me via email or twitter.
-
-And check out my substack for explorations in building and learning.
+Contact me via email or Twitter.
 
 <!--
 **averywlittle/averywlittle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
