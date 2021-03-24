@@ -1,8 +1,6 @@
 ### Hello 👋
 
-I'm a software developer with experience at all levels of the stack. I've spent the last ~year working at Industry Star, where I've been working on software empowering supply chains. My contributions have entailed UI/UX improvements, product design, feature implementation, bug squashing, tooling upgrades, and more, all done with an Angular frontend hooked up to a ASP.NET backend with a SQL Server database, Cosmos database, and elastic search data store.
-
-Currently working my way through the full stack open course. React is great. I wish I could use it at work.
+I'm a web developer with experience at all levels of the stack. Currently I'm specialized in Front End work with React and TypeScript.
 
 Contact me via email or Twitter.
 
