@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm a web developer with experience at all levels of the stack. Currently I'm specialized in Front End work with React and TypeScript.
+I'm a web developer with experience at all levels of the stack. Currently I'm specialized in frontend work with React and TypeScript.
 
 Contact me via email or Twitter.
 
